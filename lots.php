@@ -79,7 +79,7 @@ include_once "base.php";
     <div class="box">
     <div class="nav nav-tabs justify-content-end col-10 mx-auto">
      <div class="nav-item">
-            <a class="nav-link active bg-danger text-white"  href="invoice.php">發票專區</a>
+            <a class="nav-link active bg-danger text-white"  href="temple.php">回到首頁</a>
         </div>
         <div class="nav-item">
             <a class="nav-link text-secondary" style="background:#fff4f0;" href="login.php">我要登出</a>

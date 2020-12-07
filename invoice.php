@@ -94,7 +94,7 @@
             <a class="nav-link text-secondary" style="background:#fff4f0;" href="?do=add_awards">輸入獎號</a>
         </div>
         <div class="nav-item">
-            <a class="nav-link text-secondary" style="background:#fff4f0;" href="lots.php">求籤專區</a>
+            <a class="nav-link text-secondary" style="background:#fff4f0;" href="temple.php">回到首頁</a>
         </div>
     </div>
     
