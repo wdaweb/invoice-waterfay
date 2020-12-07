@@ -9,7 +9,7 @@ include_once "base.php";
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <title>Document</title>
     <style>
-    body{
+     body{
             margin:0 auto;
         }
     h5{
@@ -27,6 +27,12 @@ include_once "base.php";
     .box{
         display:grid;
         z-index:100;
+    }
+    .contain{
+        height:550px;
+        width:850px;
+        background:#fff4f0;
+        box-shadow: -5px -5px 5px #ceb9b9 inset;
 
     }
     .contain1{
@@ -44,6 +50,10 @@ include_once "base.php";
         background:#3B3B3B;
         position: absolute;
         color:#ADADAD;
+        display: grid;
+        align-items:center;
+        justify-content:center;
+
     }
     .logo{
         width:200px;
@@ -101,7 +111,7 @@ include_once "base.php";
       電話:(02) 2558-0346<br>
 　  　地址:台北市大同區迪化街一段61號<br>
       </h5>
-      <img src="images/logo1.png" class="logo">
+      <img src="images/logo1.png" alt="">
     </div>
     </div>
 
