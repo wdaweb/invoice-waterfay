@@ -1,0 +1,234 @@
+@media (min-width:0px) and (max-width:400px){
+    .contain{
+        height : 600px;
+        width  : 250px;
+        display: block;
+    }
+    .contain1{
+        height : 400px;
+        width  : 350px;
+        display: block;
+    }
+    .logo{
+        width:180px;
+    }
+    .bg{
+        min-height: 90vh;
+    }
+    .login{
+        top:90%;
+    }
+    .box1{
+        display: grid;
+    }
+    .invoice{
+        height:225px;
+        width:225px;
+    }
+    .temple{
+        height:225px;
+        width:225px;
+    }
+    .nav-tabs .nav-link {
+        width: 50px !important;
+
+    }
+
+    table{
+        font-size:small;
+    }
+    .number{
+        font-size:small;
+    }
+    .row .justify-content-around{
+        font-size:small;
+    }
+    td{
+        padding: 5px !important;
+    }
+    .lots{
+        top:22%;
+        left:30%;
+        width:200px;
+        height:200px;
+    }
+    .col-12{
+        height:370px !important;
+        width :320px !important;
+    }
+    pre{
+        height:370px;
+        width :320px;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+}
+
+
+@media (min-width:401px) and (max-width:576px) {
+    .contain {
+        height : 600px;
+        width  : 350px;
+        display: block;
+    }
+    .contain1{
+        height : 400px;
+        width  : 350px;
+        display: block;
+    }
+    .box1{
+        display: grid;
+    }
+    .invoice{
+        height:225px;
+        width:350px;
+    }
+    .temple{
+        height:225px;
+        width:350px;
+    }
+    .nav-tabs .nav-link {
+        width: 50px !important;
+    }
+    table{
+        font-size:small;
+    }
+    .number{
+        font-size:small;
+    }
+    .row .justify-content-around{
+        font-size:small;
+    }
+    td{
+        padding: 5px !important;
+    }
+    .lots{
+        top:22%;
+        left:30%;
+        width:200px;
+        height:200px;
+    }
+    pre{
+        height:370px;
+        width :320px;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+
+}
+
+@media (min-width:577px) and (max-width:768px) {
+    .contain {
+        height: 480px;
+        width : 700px;
+        display: block;
+    }
+    .contain1{
+        height: 480px;
+        width : 700px;
+        display: block;
+    }
+    .invoice{
+        height:450px;
+        width:300px;
+    }
+    .number{
+        font-size:small;
+    }
+    .temple{
+        height:450px;
+        width:300px;
+    }
+    td{
+        padding: 5px !important;;
+    }
+    pre{
+        height:450px;
+        width :670px;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+
+}
+
+@media (min-width:769px) and (max-width:992px) {
+    .contain {
+        height: 500px;
+        width : 800px;
+        display: block;
+    }
+    .contain1{
+        height: 500px;
+        width : 800px;
+        display: block;
+    }
+    .invoice{
+        height:500px;
+        width:350px;
+    }
+    .temple{
+        height:500px;
+        width:350px;
+    }
+    td{
+        padding: 5px !important;;
+    }
+    pre{
+        height:470px;
+        width :750px;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+
+}
+
+@media (min-width:993px) {
+    .contain{
+        height:550px;
+        width :850px;
+        display: block;
+    }
+    .contain1{
+        height:550px;
+        width :850px;
+        display: block;
+    }       
+    .bg{
+        min-height: 100vh;
+    }
+    .login{
+        top:100%;
+    }
+    td{
+        padding: 5px !important;;
+    }
+    .col-12{
+        height:370px !important;
+        width :320px !important;
+    }
+    pre{
+        height:500px;
+        width :790px;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+}
+
+@media (min-height:1336px){
+    .contain{
+        height:600px;
+        width :850px;
+        display: block;
+    }
+    .contain1{
+        height:600px;
+        width :850px;
+        display: block;
+    }    
+    .bg{
+        min-height: 90vh;
+    }
+    .login{
+        top:90%;
+    }
+}
